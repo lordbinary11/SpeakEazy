@@ -17,6 +17,7 @@ Tech Stack
 Demo Video
 
 Check out our demo video to see SpeakEazy in action:
+    https://youtu.be/spDFXpm-DT0
 
 Getting Started
 Prerequisites
